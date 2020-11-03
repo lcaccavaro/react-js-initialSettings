@@ -1,4 +1,6 @@
-const sum = (a, b) => {
-    return a + b;
-}
-console.log(sum(1,5));
+import React from 'react';
+import { render } from 'react-dom';
+
+import App from './App';
+
+render(<App/>, document.getElementById('app'));

@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "serve": "webpack serve --config webpack.config.js --progress --profile --watch --content-base src/"
+    "server:dev": "webpack-dev-server --mode development"
   },
   "dependencies": {
     "@babel/cli": "^7.12.1",
