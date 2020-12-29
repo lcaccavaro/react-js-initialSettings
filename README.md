@@ -1,2 +1,2 @@
-# reactJs-fromScratch
-ReactJS project created from scratch
+# React JavaScript - Initial Settings
+Project created from scratch
